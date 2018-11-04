@@ -14,7 +14,7 @@ Currently the vast majority of the development for the web has to occur on a Win
 
 Wouldn't it be great if you could do web development from a Chromebook (even one without linux apps), from an iPad Pro, or some future device that has only a web browser installed? Wouldn't it be great if I could go to a website, and/or install a PWA, setup some javascript plugins via either URL or local installation, and start coding on an editor that is editing local files for me? All with the site/PWA performing the build for me and allowing me to run what I am building with nothing more than the browser. That is the dream of project Hermes.
 
-When this project was created it used the create-react-app and all the node libraries that includes. This was done to get someting up an running quickly. The goal of this app is for it to eventually be able to build itself in the browser. Once that is complete, the dream will be for it to build webassembly projects, webgl projects, webvr projects, and all other webapps.
+When this project was created it used the create-react-app and all the node libraries that includes. This was done to get someting up and running quickly. The goal of this app is for it to eventually be able to build itself in the browser. Once that is complete, the dream will be for it to build webassembly projects, webgl projects, webvr projects, and all other webapps.
 
 ## Available Scripts
 
