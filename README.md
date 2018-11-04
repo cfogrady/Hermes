@@ -1,12 +1,12 @@
-#Hermes
+# Hermes
 
 Prototype for PWA IDE for websites / PWAs
 
-##Project Goals
+## Project Goals
 
 The goal of this project is to allow development for the web, on the web.
 
-###What does that mean?
+### What does that mean?
 
 That means that a user should be able to navigate to the project website (or install the PWA) and create a website or PWA using nothing more than the web browser. The code editing could be done from the browser, the building could be done from the browser, and running the service could be done from the browser.
 
