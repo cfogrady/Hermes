@@ -43,7 +43,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-##Planned Feature Development
+## Planned Feature Development
 1) Basic PWA up and running
 2) Plugin architecture for code to be added to the build-chain dynamically
 3) Editor (Open and Close files, display project tree from directory)
